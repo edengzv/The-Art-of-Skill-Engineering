@@ -1,6 +1,8 @@
 # Skill 工程：写给 AI 时代的技能设计指南
 ## The Art of Skill Engineering: A Practical Guide to Crafting AI Agent Skills
 
+![Book Cover](images/cover.png)
+
 ## Author
 [Your Name]
 

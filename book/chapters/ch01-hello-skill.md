@@ -1,5 +1,7 @@
 # Chapter 1: 你好，Skill
 
+![Chapter 1: 你好，Skill](../images/ch01-hello-skill.png)
+
 > **Motto**: "一个 SKILL.md 文件就是全部的开始"
 
 > 你已经用过 AI 编程工具——Claude Code、Cursor、Qoder。你知道它们能读文件、写代码、跑命令。但每次你让 Agent 做同样的事——"按我们团队规范审查代码"、"用这个模板写提交信息"——你都得重新描述一遍。本章你将写出第一个 Skill，让 Agent 永远记住你的工作流程。

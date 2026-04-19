@@ -1,5 +1,7 @@
 # Chapter 5: 命令与路由
 
+![Chapter 5: 命令与路由](../images/ch05-commands-routing.png)
+
 > **Motto**: "一个 Skill 多种用法，由命令来切换"
 
 > 到目前为止，每个 Skill 只做一件事。但真实场景中，一个领域的 Skill 可能需要多种操作模式。你不会为"创建项目"、"添加组件"、"查看配置"分别写三个 Skill——它们属于同一个领域，应该是一个 Skill 的不同命令。

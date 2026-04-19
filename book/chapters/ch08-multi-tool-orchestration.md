@@ -1,5 +1,7 @@
 # Chapter 8: 多工具编排
 
+![Chapter 8: 多工具编排](../images/ch08-multi-tool-orchestration.png)
+
 > **Motto**: "Skill 的力量不在文字，在于它能调动的工具"
 
 > 到目前为止，你的 Skill 主要是"知识型"的——告诉 Agent 怎么思考和输出。但强大的 Skill 还能指导 Agent 按特定顺序使用工具：先用 Bash 检查环境，再用 Read 读取配置，接着用 WebFetch 验证服务。本章你将学会在 Skill 中编排多工具协作。

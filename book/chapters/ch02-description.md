@@ -1,5 +1,7 @@
 # Chapter 2: Description：最重要的一行
 
+![Chapter 2: Description：最重要的一行](../images/ch02-description.png)
+
 > **Motto**: "Agent 看不到你的 Skill 内容，只看到 description"
 
 > 你已经写出了第一个 Skill，Agent 也成功加载了它。但你有没有想过：Agent 是怎么决定"现在需要加载这个 Skill"的？答案藏在一个你可能随手写完的字段里——`description`。本章你将深入理解 description 的工作原理，并通过反复实验，掌握写出精准 description 的技巧。
