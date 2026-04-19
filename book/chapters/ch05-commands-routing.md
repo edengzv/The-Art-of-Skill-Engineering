@@ -266,6 +266,11 @@ translate all  → 翻译全部
 
 ## Try It Yourself
 
+> 完整代码见 `code/track-1/ch05-project-scaffold/`，可直接复制到 `~/.qoder/skills/` 使用。
+>
+> **Track 2 演进**：对比 `code/track-2/v04-multi-pass/` 和 `code/track-2/v05-commands/` 的 diff，
+> 观察命令路由表（create/review/improve）如何从 89 行扩展到 134 行。
+
 1. **Verify**: 创建 `project-scaffold` Skill，测试 `create api` 和 `add auth` 两个命令。
 2. **Extend**: 给 `api-doc-writer` 加入命令路由，让 `discover`、`generate`、`format` 可以单独执行。
 3. **Explore**: 分析你最常用的 CLI 工具（git, npm, docker）的命令设计。哪些设计模式适合 Skill？

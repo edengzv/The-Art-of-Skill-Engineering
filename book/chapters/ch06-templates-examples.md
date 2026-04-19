@@ -305,6 +305,11 @@ SKILL.md 中用命令路由到不同模板：
 
 ## Try It Yourself
 
+> 完整代码见 `code/track-1/ch06-test-writer/`，可直接复制到 `~/.qoder/skills/` 使用。
+>
+> **Track 2 演进**：对比 `code/track-2/v05-commands/` 和 `code/track-2/v06-examples/` 的 diff，
+> 观察 I/O 示例和反例如何从 134 行扩展到 202 行。
+
 1. **Verify**: 用 `test-writer` 为一个真实项目的函数生成测试，检查输出是否符合模板。
 2. **Extend**: 给 Chapter 3 的 `commit-message` Skill 添加第 3 个不同场景的示例（如 refactor 类型）。对比添加前后输出的一致性。
 3. **Explore**: 找一个你觉得输出不稳定的 Skill。诊断原因：是缺少示例、缺少模板、还是缺少反例？添加最缺的那种锚定方式。

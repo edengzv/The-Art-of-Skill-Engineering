@@ -556,6 +556,12 @@ Skill 不再是独立于 IDE 的配置文件。它正在融入开发工作流—
 
 ## Try It Yourself
 
+> 完整代码见 `code/track-1/ch12-skill-creator/`（= Track 2 v12 最终版），可直接复制到 `~/.qoder/skills/` 使用。
+>
+> **Track 2 完结**：查看 `code/track-2/v12-final/SKILL.md` 末尾的"演化历程"表，
+> 回顾 skill-creator 从 13 行到 599 行的完整进化。也可以直接 diff v01 和 v12 感受全貌：
+> `diff code/track-2/v01-basic/SKILL.md code/track-2/v12-final/SKILL.md`
+
 1. **Verify**: 用 `skill-creator` 创建一个你一直想要的 Skill（比如 `meeting-notes`、`code-migration`、`bug-report-writer`）。
 2. **Extend**: 用 `skill-creator review` 审查 `skill-creator` 本身。根据审查结果改进它——这是一个递归！
 3. **Explore**: 把你在本书中创建的所有 Skill 打包成一个 Git 仓库，分享给你的团队或社区。

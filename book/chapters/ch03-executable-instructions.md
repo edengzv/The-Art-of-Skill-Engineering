@@ -591,6 +591,11 @@ SKILL.md 正文的理想长度是 **100-300 行**（约 500-2000 tokens）。这
 
 ## Try It Yourself
 
+> 完整代码见 `code/track-1/ch03-commit-message/`，可直接复制到 `~/.qoder/skills/` 使用。
+>
+> **Track 2 演进**：对比 `code/track-2/v02-description/` 和 `code/track-2/v03-five-elements/` 的 diff，
+> 观察五要素如何将 15 行骨架扩展为 38 行结构化指令。
+
 1. **Verify**: 用改写后的 `commit-message` Skill 生成 5 条提交信息（对不同类型的改动：Bug 修复、新功能、重构、文档、配置变更）。每条都检查是否符合约束条件。
 
 2. **Extend**: 回到第 1 章的 `quick-fix` Skill，用本章的五要素重写它的正文。对比改写前后 Agent 的行为差异。

@@ -430,6 +430,11 @@ git checkout v1.0 -- SKILL.md
 
 ## Try It Yourself
 
+> 本章的实践材料见 `code/track-1/ch10-eval/`，包含 eval-config.yaml 模板、测试用例集和 description 优化日志模板。
+>
+> **Track 2 演进**：对比 `code/track-2/v09-quality/` 和 `code/track-2/v10-eval/` 的 diff，
+> 观察 Pass 4（评测建议）和 run_eval.sh 如何从 321 行扩展到 437 行。
+
 1. **Verify**: 对你的 `commit-message` Skill 做一次完整的四维度评估。记录触发准确性、一致性、质量和 Token 消耗。
 2. **Assertions**: 为 `commit-message` Skill 设计 5 个确定性断言和 2 个模型辅助断言。手动运行并记录结果。
 3. **4D Diagnosis**: 选一个你觉得"不够好"的 Skill，用四维诊断框架分析问题属于哪个维度，然后做针对性改进。

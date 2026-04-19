@@ -431,6 +431,11 @@ Level 3: 隔离验证      — 独立视角评估（打破偏见）
 
 ## Try It Yourself
 
+> 完整代码见 `code/track-1/ch09-pr-reviewer/`，可直接复制到 `~/.qoder/skills/` 使用。
+>
+> **Track 2 演进**：对比 `code/track-2/v08-tools/` 和 `code/track-2/v09-quality/` 的 diff，
+> 观察 Guardrails、10 项清单和反模式检查如何从 307 行扩展到 321 行。
+
 1. **Verify**: 用 `pr-reviewer` 审查一个真实的 PR（或创建一个测试 PR）。检查 Agent 是否在输出前执行了 Checklist。
 2. **Extend**: 给 Chapter 6 的 `test-writer` 添加 8 项 Quality Checklist（覆盖测试覆盖度、断言质量、命名规范等）。
 3. **Explore**: 审查你所有 Skill 的输出记录，找出 3 个最常出现的质量问题。为每个问题设计一个 Checklist 项。

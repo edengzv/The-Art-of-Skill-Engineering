@@ -300,6 +300,11 @@ tech-book-writer/
 
 ## Try It Yourself
 
+> 完整代码见 `code/track-1/ch07-refactor-guide/`（含 scripts/ + reference/），可直接复制到 `~/.qoder/skills/` 使用。
+>
+> **Track 2 演进**：对比 `code/track-2/v06-examples/` 和 `code/track-2/v07-architecture/` 的 diff，
+> 观察三层架构拆分如何从 202 行变为 229 行 + scripts/ + reference/。
+
 1. **Verify**: 构建 `refactor-guide` Skill 的完整三层结构，测试 `analyze` 命令。
 2. **Extend**: 把 Chapter 6 的 `test-writer` 重构为三层——把大量示例移到 `reference/examples.md`，SKILL.md 只保留 1 个关键示例。
 3. **Explore**: 计算你已有的每个 Skill 的 SKILL.md 行数。哪些超过了 300 行？设计它们的分离方案。

@@ -263,6 +263,11 @@ mkdir -p ~/skill-workshop/skills
 
 ## Try It Yourself
 
+> 完整代码见 `code/track-1/ch01-quick-fix/`，可直接复制到 `~/.qoder/skills/` 使用。
+>
+> **Track 2 演进**：查看 `code/track-2/v01-basic/SKILL.md`——这是 skill-creator 的起点，
+> 仅 13 行的极简骨架。
+
 1. **Verify**: 创建 `quick-fix` Skill，然后向 Agent 报告一个小 Bug（比如一个变量名拼错），观察 Agent 是否按照 Skill 的步骤执行。
 
 2. **Extend**: 故意把 SKILL.md 的 Frontmatter 格式写错（比如少一行 `---`），看 Agent 还能不能识别到这个 Skill。然后修复它。

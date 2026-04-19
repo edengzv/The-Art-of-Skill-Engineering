@@ -277,6 +277,11 @@ Pass 5 [show_widget + Write] → 渲染预览 + 输出 HTML
 
 ## Try It Yourself
 
+> 完整代码见 `code/track-1/ch08-deploy-checker/`（含 scripts/ + reference/），可直接复制到 `~/.qoder/skills/` 使用。
+>
+> **Track 2 演进**：对比 `code/track-2/v07-architecture/` 和 `code/track-2/v08-tools/` 的 diff，
+> 观察 Tool Usage 表和 Pipeline 编排如何从 229 行扩展到 307 行。
+
 1. **Verify**: 用 `deploy-checker` 检查一个真实项目的部署就绪状态。
 2. **Extend**: 给 `api-doc-writer` 添加 Tool Usage 表，明确每个 Pass 使用什么工具。
 3. **Explore**: 设计一个需要 3+ 种工具的 Skill 场景（如"竞品分析"：WebSearch 搜索 + WebFetch 抓取 + Write 输出报告），画出工具编排流程图。

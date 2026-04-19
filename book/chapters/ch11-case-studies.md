@@ -525,6 +525,11 @@ git log --oneline -5 branch-name
 
 ## Try It Yourself
 
+> 本章的实践工具见 `code/track-1/ch11-analysis/`，包含 7 维度分析模板和 deslop 案例报告。
+>
+> **Track 2 演进**：对比 `code/track-2/v10-eval/` 和 `code/track-2/v11-informed/` 的 diff，
+> 观察 Pass 0 复杂度路由、7 维审查和案例注入如何从 437 行扩展到 506 行。
+
 1. **Verify**: 从 lovstudio/skills (https://github.com/lovstudio/skills) 下载一个你感兴趣的 Skill，用本章的 7 维度方法论解剖它。写一份 500 字的解剖报告。
 2. **Extend**: 给你现有的一个 Skill 添加"Hard-Won Lessons"章节——回忆它在使用中出过的问题，把解决方案编码进去。
 3. **Explore**: 写一个 `skill-linter` Skill（参考 lovstudio 的 skill-optimizer），自动检查 SKILL.md 是否符合本书方法论。
