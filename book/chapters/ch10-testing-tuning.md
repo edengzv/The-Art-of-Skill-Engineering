@@ -1,10 +1,10 @@
 # Chapter 10: 测试与调优
 
-![Chapter 10: 测试与调优](../images/ch10-testing-tuning.png)
-
 > **Motto**: "写完不是终点，验证才是"
 
 > 你已经掌握了写 Skill 的全部技巧。但一个 Skill 写出来后，怎么知道它好不好？怎么持续改进？本章教你建立 Skill 的评估方法论：设计测试用例、对比 A/B 版本、收集反馈、持续迭代。
+
+![Chapter 10: 测试与调优](images/ch10-testing-tuning.png)
 
 ## The Problem
 

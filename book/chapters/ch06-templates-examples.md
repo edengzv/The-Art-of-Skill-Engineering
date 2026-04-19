@@ -1,10 +1,10 @@
 # Chapter 6: 模板与示例
 
-![Chapter 6: 模板与示例](../images/ch06-templates-examples.png)
-
 > **Motto**: "一个好的示例胜过十段解释"
 
 > 指令告诉 Agent "做什么"，但模板和示例告诉它"做成什么样"。你已经在 Chapter 3 的 `commit-message` Skill 中用了简单示例。本章系统性地教你三种锚定技巧，彻底消除输出的不确定性。
+
+![Chapter 6: 模板与示例](images/ch06-templates-examples.png)
 
 ## The Problem
 

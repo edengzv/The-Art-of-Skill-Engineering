@@ -1,10 +1,10 @@
 # Chapter 3: 可执行的指令
 
-![Chapter 3: 可执行的指令](../images/ch03-executable-instructions.png)
-
 > **Motto**: "模糊的指令产生模糊的结果"
 
 > description 让 Skill 被正确加载——这解决了"什么时候用"的问题。但 Skill 正文的指令质量决定了 Agent 执行得好不好——这是"怎么用"的问题。本章你将学会区分"模糊指令"和"可执行指令"，并掌握结构化指令写作的五个要素。
+
+![Chapter 3: 可执行的指令](images/ch03-executable-instructions.png)
 
 ## The Problem
 

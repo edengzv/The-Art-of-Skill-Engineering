@@ -1,10 +1,10 @@
 # Chapter 9: 质量检查清单
 
-![Chapter 9: 质量检查清单](../images/ch09-quality-checklist.png)
-
 > **Motto**: "好的 Skill 自己知道自己做得好不好"
 
 > 你已经掌握了 Skill 的所有核心技巧：description、指令、Multi-Pass、命令、模板、三层架构、工具编排。但还有一个关键缺失——Agent 怎么知道自己的输出合不合格？本章你将学会在 Skill 中内置 Quality Checklist，让 Agent 在输出前自检。
+
+![Chapter 9: 质量检查清单](images/ch09-quality-checklist.png)
 
 ## The Problem
 

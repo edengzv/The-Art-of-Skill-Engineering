@@ -1,10 +1,10 @@
 # Chapter 4: 工作流设计模式
 
-![Chapter 4: 工作流设计模式](../images/ch04-multi-pass.png)
-
 > **Motto**: "把大象装进冰箱需要三步，好的 Skill 也是"
 
 > 你的 Skill 工具箱里已经有了 3 个单步 Skill。但真实世界的任务——写文档、做审查、创建项目——往往需要更复杂的执行逻辑。本章你将学会 5 种工作流设计模式，并掌握根据任务特性选择最合适模式的方法。
+
+![Chapter 4: 工作流设计模式](images/ch04-multi-pass.png)
 
 ## The Problem
 

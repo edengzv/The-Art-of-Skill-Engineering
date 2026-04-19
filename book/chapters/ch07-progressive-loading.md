@@ -1,10 +1,10 @@
 # Chapter 7: 渐进式加载
 
-![Chapter 7: 渐进式加载](../images/ch07-progressive-loading.png)
-
 > **Motto**: "上下文是公共资源，每个 Token 都很宝贵"
 
 > 随着 Skill 越来越复杂——命令多了、示例多了、模板多了——SKILL.md 膨胀到了 500 行甚至更多。一次性加载这么多内容，会吃掉宝贵的上下文空间。本章你将学会三层架构，让 Skill 像图书馆一样组织知识：目录在手边，详细资料在书架上。
+
+![Chapter 7: 渐进式加载](images/ch07-progressive-loading.png)
 
 ## The Problem
 

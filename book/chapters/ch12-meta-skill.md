@@ -1,10 +1,10 @@
 # Chapter 12: 元技能：创建 Skill 的 Skill
 
-![Chapter 12: 元技能：创建 Skill 的 Skill](../images/ch12-meta-skill.png)
-
 > **Motto**: "教会 Agent 创建 Skill，你就不再是一个人在写"
 
 > 全书的终章。你已经掌握了 Skill 工程的完整方法论——从 description 到三层架构，从 Multi-Pass 到质量自检。现在，我们把这些知识编码成一个 Skill 本身：一个能帮你创建其他 Skill 的 Skill。这就是**元技能（Meta-Skill）**。
+
+![Chapter 12: 元技能：创建 Skill 的 Skill](images/ch12-meta-skill.png)
 
 ## The Problem
 
